@@ -1,7 +1,7 @@
 # EDA
 
 # Project Overview
-This project involves performing an Exploratory Data Analysis (EDA) on the [Dataset Name]. The goal is to uncover insights, detect patterns, and visualize the relationships within the data. The analysis was conducted using Python libraries such as Pandas, Matplotlib, and Seaborn.
+This project involves performing an Exploratory Data Analysis (EDA) on the coffee shop. The goal is to uncover insights, detect patterns, and visualize the relationships within the data. The analysis was conducted using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
 # Dataset
 The dataset used in this project is Coffee Shop, which contains Details of a coffee shop.
